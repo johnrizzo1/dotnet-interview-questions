@@ -1,0 +1,7 @@
+# https://docs.microsoft.com/en-us/visualstudio/ide/code-styles-and-quick-actions
+
+[*]
+end_of_line = crlf
+
+[*.xml]
+indent_style = space
