@@ -4,7 +4,7 @@
 
 ### Palindrome
 
-An acceptible solution.
+An acceptable solution.
 
 ```c#
 public static class Palindrome

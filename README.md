@@ -6,7 +6,7 @@ The purpose of this solution is to house a number of areas that we would like to
 
 * DateTimePlay: Date Time Usage, Math and Manipulation
 * GraphPlay: Understanding of Graphs and their related algorithms and functions
-* Concurrecy: Demonstrate and understanding of concurrency related issues such as;
+* Concurrency: Demonstrate and understanding of concurrency related issues such as;
   * Thread Safety
   * Understanding of different concurrency models
   * ...  more to be added
