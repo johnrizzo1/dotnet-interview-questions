@@ -4,21 +4,21 @@
 
 ### Date Math
 
-An acceptible solution.
+An acceptable solution.
 
 ```c#
 ```
 
 ### Count Business Days
 
-An acceptible solution.
+An acceptable solution.
 
 ```c#
 ```
 
 ### Test if dates overlap
 
-An acceptible solution.
+An acceptable solution.
 
 ```c#
 ```

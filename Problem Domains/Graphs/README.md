@@ -7,7 +7,7 @@
 The candidate is typically given the Interface and shell for the BinaryTreeNodeCounter and is asked to implement the binary tree and node counting logic.
 +1 if the candidate uses unit tests instead
 
-An acceptible implementation of the node counting logic might be similar to the following;
+An acceptable implementation of the node counting logic might be similar to the following;
 
 ```c#
 public sealed class BinaryTree<T> : IBinaryTree<T>
